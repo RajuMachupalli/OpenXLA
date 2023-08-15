@@ -1,10 +1,10 @@
 # OpenXLA
 > Write this document to simplify the OpenXLA flow and its understanding.
->
+
 > Platforms: Python, JAX, Tensorflow
->
+
 > Operations set: StableHLO
->
+
 > Compilers: XLA, IREE
 
 **OpenXLA**: It is an open-source machine learning compiler that can optimize models from different frameworks for various hardware platforms.
